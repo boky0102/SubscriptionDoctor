@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/boky0102/SubscriptionDoctor/issues"
   },
-  "homepage": "https://github.com/boky0102/SubscriptionDoctor#readme"
+  "homepage": "https://github.com/boky0102/SubscriptionDoctor#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
