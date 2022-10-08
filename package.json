@@ -1,0 +1,19 @@
+{
+  "name": "subscriptiondoctor",
+  "version": "1.0.0",
+  "description": "\"# SubscriptionDoctor\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boky0102/SubscriptionDoctor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boky0102/SubscriptionDoctor/issues"
+  },
+  "homepage": "https://github.com/boky0102/SubscriptionDoctor#readme"
+}
